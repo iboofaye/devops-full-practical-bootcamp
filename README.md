@@ -1,5 +1,3 @@
-# devops-full-practical-bootcamp
-
 # DevOps Full Practical Bootcamp Project 
 
 # Goal
@@ -13,47 +11,11 @@ Git clone initial code from this Github Repo - [https://github.com/iboofaye/devo
 git clone git@github.com:iboofaye/devops-full-practical-bootcamp.git
 ```
 
-## Step 1 - Get the inital start code onto your system
-## Step 2 - Add Unit Tests
-## Step 3 - Create a workflow
-
-1.) Create a directory called .github/workflows within the directory containing .git
-2.) And create a workflow ‘YAML’ file, let's call it ci_cd_wf.yml
-3.) Git add and push changes (This automatically invokes the Git actions and sets up the CI/CD Pipeline which on push to the master branch)
-
-```
-name : test
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  test:
-    runs-on : ubuntu-latest
-
-    steps:
-      - name: Check out repo code
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: "3.x"
-
-      - name: Install Dependencies
-        run: |
-          python -m pip install -r requirements.txt
-      - name: Run tests
-        run: |
-          python -m pytest calculator.py
-```
-
-## Step 4 - Check our Gitflow with a new branch
-
-## Step 5 - Fix all the errors to make a successful build
-
+## Step 1 - 
+## Step 2 - 
+## Step 3 - 
+## Step 4 - 
+## Step 5 - 
 ## Step 6 - 
 ## Step 7 - 
 ## Step 8 - 
