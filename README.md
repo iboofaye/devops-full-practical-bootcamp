@@ -60,5 +60,5 @@ git clone git@github.com:iboofaye/devops-full-practical-bootcamp.git
 <br> This repository has three branches -
 ### 'main' branch contains the file code for the project
 ### 'initial_starter_code' contains the inital code to start with
-### 'test' - The state of the project with a wrong test added for reference - this is supposed to fail the merge to master process in our workflow
+### 'test' - The state of the project with test added for reference
 </br>
