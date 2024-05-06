@@ -10,17 +10,45 @@ Git clone initial code from this Github Repo - [https://github.com/iboofaye/devo
 ```
 git clone git@github.com:iboofaye/devops-full-practical-bootcamp.git
 ```
+## Step 1 - Application Development
 
-## Step 1 - 
-## Step 2 - 
-## Step 3 - 
-## Step 4 - 
-## Step 5 - 
-## Step 6 - 
-## Step 7 - 
-## Step 8 - 
-## Step 9 - 
-## Step 10 - 
+    Tools: Any IDE or text editor (e.g., Visual Studio Code, IntelliJ IDEA)
+
+## Step 2 - Dockerize Application
+
+    Tools: Docker, Docker Compose
+
+## Step 3 - Create a CI/CD Pipeline for Your Application
+
+    Tools: Jenkins, GitLab CI/CD, CircleCI
+
+## Step 4 - Continuous Testing
+
+    Tools: JUnit, Mockito (for Java); pytest, unittest (for Python); Jasmine, Mocha (for JavaScript)
+
+## Step 5 - K8s Cluster
+
+    Tools: Minikube (for local development); Google Kubernetes Engine (GKE), Amazon Elastic Kubernetes Service (EKS), Azure Kubernetes Service (AKS) (for cloud deployment)
+
+## Step 6 - K8s Manifest Files
+
+    Tools: YAML (for writing Kubernetes manifest files); kubectl (for deploying manifest files)
+
+## Step 7 - Deploy Application to Kubernetes Cluster
+
+    Tools: kubectl, Helm (for managing Kubernetes applications)
+
+## Step 8 - Implement Monitoring and Logging
+
+    Tools: Prometheus (for monitoring); ELK stack (Elasticsearch, Logstash, Kibana) or Fluentd, Elasticsearch, Kibana (EFK) stack (for logging)
+
+## Step 9 - Implement Scalability and High Availability
+
+    Tools: Kubernetes features like Horizontal Pod Autoscaler (HPA), Cluster Autoscaler, ReplicaSets
+
+## Step 10 - Continuous Improvement
+
+    Tools: Prometheus (for monitoring performance metrics); Grafana (for visualizing metrics); Kubernetes Dashboard (for monitoring Kubernetes cluster); SonarQube (for code quality analysis)
 
 ### As the the project comes to a close, it's important to reflect on the progress made so far.
 
